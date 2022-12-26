@@ -1,6 +1,6 @@
 password = input("write password:")
 if password == "test":
-print("welcome")
+  print("welcome")
 else:
-print("try again")
+  print("try again")
 #sdadaw
